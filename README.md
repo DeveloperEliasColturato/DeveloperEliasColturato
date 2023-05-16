@@ -1,16 +1,7 @@
 ### Olá, meu nome é Elias! 👋
 
 
-- 📫 Estudante de Desenvolvimento Front-End
-- 😄 Tecnologia & Publicidade
-
-<div align="center">
-</div
-  
-<div>
-<img src="https://tenor.com/bKIR2.gif" alt=""/>  
-</div> 
-  
+- 📫 Estudante de Desenvolvimento Front-End 
   
   
 <div align="center">

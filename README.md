@@ -7,13 +7,16 @@
 <div align="center">
 </div
   
-<div align="center"> <img src="https://user-images.githubusercontent.com/91541899/173412552-05fecc11-e8b1-46b4-8fde-ebe2ca483470.gif" alt="/> </div>
+<div>
+<img src="https://tenor.com/bKIR2.gif" alt=""/>  
+</div> 
+  
   
   
 <div align="center">
-  <a href="https://github.com/EliasColturato">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EliasColturato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EliasColturato&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/DeveloperEliasColturato">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DeveloperEliasColturato&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeveloperEliasColturato&layout=compact&langs_count=7&theme=cobalt"/>
  
     
  <div style="display: inline_block"><br>
@@ -31,7 +34,7 @@
   
 <div> 
   <a href="https://instagram.com/elias_colturato" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:elias_junior_sc@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:eliascolturatodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elias-colturato-482274195" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
